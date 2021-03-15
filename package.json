@@ -1,0 +1,12 @@
+{
+  "name": "account-management-backend-level-3",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "dotnet build ./app/App.sln",
+    "start": "dotnet run --project ./app/Modules/Account/Account.API/Account.API.csproj",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^5.4.0"
+  }
+}

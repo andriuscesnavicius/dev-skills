@@ -1,0 +1,8 @@
+node_modules
+cypress/videos
+cypress/plugins
+cypress/screenshots
+cypress/support
+bin/
+obj/
+.vs
