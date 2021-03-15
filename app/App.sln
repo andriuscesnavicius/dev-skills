@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.API", "Modules\Acco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lock.DataAccess", "Utilities\Lock.Provider\Lock.DataAccess.csproj", "{C4DFE731-B6E2-4C32-ABB6-9C7126C4E2B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Services", "Modules\Account\Services\Account.Services.csproj", "{6E7B8B9A-C2EC-4A62-AE3D-430E30AD9E24}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Services", "Modules\Account\Account.Services\Account.Services.csproj", "{6E7B8B9A-C2EC-4A62-AE3D-430E30AD9E24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
